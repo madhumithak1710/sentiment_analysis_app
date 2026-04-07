@@ -1,5 +1,5 @@
 streamlit
 pandas
-pyPDf3
+pyPDf2
 textblob
 plotly
